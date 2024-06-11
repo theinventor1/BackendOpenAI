@@ -4,6 +4,7 @@ const https = require('https');
 const fs = require('fs'); 
 const path = require('path');
 // Rutas de tus módulos
+/**comentarios */
 const inserta_iaimagen = require('./inserta_iaimagen.js');
 const inserta_gpt = require('./inserta_gpt.js');
 const update_gpt = require('./update_gpt.js');
